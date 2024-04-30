@@ -1,0 +1,47 @@
+F3K-1m3m30s
+-60|0:60|NF|1 minute to start|WorkingTimeIn-1Min.wav|0|0|False
+-55|0:55|NF|Flying not allowed|FlyingNotAllowed.wav|0|0|False
+-30|0:30|NF|30 seconds to start|TimeToStart-00.30.wav|0|0|False
+-20|0:20|NF|20 seconds to start|TimeToStart-00.20.wav|0|0|False
+-11|0:11|NF|to start|ToStart.wav|0|0|False
+-10|0:10|NF|10 seconds|10Secs.wav|0|0|False
+-9|0:09|NF|9|9.wav|0|0|False
+-8|0:08|NF|8|8.wav|0|0|False
+-7|0:07|NF|7|7.wav|0|0|False
+-6|0:06|NF|6|6.wav|0|0|False
+-5|0:05|NF|5|5.wav|0|0|False
+-4|0:04|NF|4|4.wav|0|0|False
+-3|0:03|NF|3|3.wav|0|0|False
+-2|0:02|NF|2|2.wav|0|0|False
+-1|0:01|NF|1|1.wav|0|0|False
+0|3:03|WT|AllUp start signal||1000|3000|False
+3|3:00|WT|3 minutes remaining|Remaining-3Mins.wav|0|0|False
+63|2:00|WT|2 minutes remaining|Remaining-2Mins.wav|0|0|False
+123|1:00|WT|1 minute remaining|Remaining-1Min.wav|0|0|False
+153|0:30|WT|30 seconds remaining|Remaining-30Secs.wav|0|0|False
+163|0:20|WT|20 seconds remaining|Remaining-20Secs.wav|0|0|False
+173|0:10|WT|10 seconds|10Secs.wav|0|0|False
+174|0:09|WT|9|9.wav|0|0|False
+175|0:08|WT|8|8.wav|0|0|False
+176|0:07|WT|7|7.wav|0|0|False
+177|0:06|WT|6|6.wav|0|0|False
+178|0:05|WT|5|5.wav|0|0|False
+179|0:04|WT|4|4.wav|0|0|False
+180|0:03|WT|3|3.wav|0|0|False
+181|0:02|WT|2|2.wav|0|0|False
+182|0:01|WT|1|1.wav|0|0|False
+183|0:30|LT|End horn|StartEndHorn.wav|0|0|False
+185|0:28|LT|Pilots must land|PilotsMustLand.wav|0|0|False
+193|0:20|LT|20 seconds remaining|Remaining-20Secs.wav|0|0|False
+202|0:11|LT|to land|ToLand.wav|0|0|False
+203|0:10|LT|10 seconds|10Secs.wav|0|0|False
+204|0:09|LT|9|9.wav|0|0|False
+205|0:08|LT|8|8.wav|0|0|False
+206|0:07|LT|7|7.wav|0|0|False
+207|0:06|LT|6|6.wav|0|0|False
+208|0:05|LT|5|5.wav|0|0|False
+209|0:04|LT|4|4.wav|0|0|False
+210|0:03|LT|3|3.wav|0|0|False
+211|0:02|LT|2|2.wav|0|0|False
+212|0:01|LT|1|1.wav|0|0|False
+213|0:00|LT|End Horn|StartEndHorn.wav|0|0|False
