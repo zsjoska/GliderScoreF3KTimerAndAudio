@@ -14,7 +14,7 @@ F3K-1m3m30s
 -3|0:03|NF|3|3.wav|0|0|False
 -2|0:02|NF|2|2.wav|0|0|False
 -1|0:01|NF|1|1.wav|0|0|False
-0|3:03|WT|AllUp start signal||1000|3000|False
+0|3:03|WT|AllUp start signal|horn3s.wav|0|0|False
 3|3:00|WT|3 minutes remaining|Remaining-3Mins.wav|0|0|False
 63|2:00|WT|2 minutes remaining|Remaining-2Mins.wav|0|0|False
 123|1:00|WT|1 minute remaining|Remaining-1Min.wav|0|0|False

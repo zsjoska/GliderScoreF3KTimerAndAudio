@@ -1,6 +1,6 @@
 F3K-3m7m30s
 -183|3:03|PT||WorkingTimeIn-3Mins.wav|0|0|False
--180|3:00|PT|3 minutes to start||1000|500|False
+-180|3:00|PT|3 minutes to start|horn05.wav|0|0|False
 -178|2:58|PT|Flying not allowed|FlyingNotAllowed.wav|0|0|False
 -165|1:00|PT|1 minute to Test fly|TimeToTestFly-01.00.wav|0|0|False
 -135|0:30|PT|30 seconds|30Secs.wav|0|0|False
@@ -16,7 +16,7 @@ F3K-3m7m30s
 -108|0:03|PT||3.wav|0|0|False
 -107|0:02|PT||2.wav|0|0|False
 -106|0:01|PT||1.wav|0|0|False
--105|0:45|TT|Flight Testing Time Begins||1000|1000|False
+-105|0:45|TT|Flight Testing Time Begins|horn1s.wav|0|0|False
 -90|0:30|TT|30 seconds|30Secs.wav|0|0|False
 -80|0:20|TT|20 seconds|20Secs.wav|0|0|False
 -70|0:10|TT||10Secs.wav|0|0|False
@@ -29,7 +29,7 @@ F3K-3m7m30s
 -63|0:03|TT||3.wav|0|0|False
 -62|0:02|TT||2.wav|0|0|False
 -61|0:01|TT||1.wav|0|0|False
--60|0:00|TT|Test Flying Ending||1000|1000|False
+-60|0:00|TT|Test Flying Ending|horn1s.wav|0|0|False
 -58|0:58|NF|1 minute to start|WorkingTimeIn-1Min.wav|0|0|False
 -55|0:55|NF|Flying not allowed|FlyingNotAllowed.wav|0|0|False
 -30|0:30|NF|30 seconds to start|TimeToStart-00.30.wav|0|0|False
@@ -77,4 +77,4 @@ F3K-3m7m30s
 447|0:03|LT|3|3.wav|0|0|False
 448|0:02|LT|2|2.wav|0|0|False
 449|0:01|LT|1|1.wav|0|0|False
-450|0:00|LT|End beep||1000|1000|False
+450|0:00|LT|End beep|horn1s.wav|0|0|False
