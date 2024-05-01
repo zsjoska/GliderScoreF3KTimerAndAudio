@@ -18,3 +18,8 @@ Features:
  - countdown at the end of working window
  - countdown to land
  - clear toTest, toStart and toLnad announcements before countdown
+
+Problems:
+- audio files are of different tones
+- redundant announcement of seconds when toStart, toLand and toTest
+- ??
