@@ -2,8 +2,12 @@
 
 This is a Timer Pack with Audio files for GliderScore F3K competitions.
 
-Use the <GREEN> Code Option, then the Download ZIP menu to download this package.
-Once downloaded, you have to overwrite the C:\Gliderscore\Audio files with this extension pack, and you will have to import the given timers.
+- When on https://github.com/zsjoska/GliderScoreF3KTimerAndAudio
+- Use the <GREEN> Code Option
+- Download ZIP menu to download this package
+- You have to overwrite the C:\Gliderscore\Audio files with this extension pack, and you will have to import the given timers.
+
+
 Features:
  - 3 minutes preparation time, announced, no flying allowed
  - 1 minute to the test time, announced (Sotir)
