@@ -17,3 +17,4 @@ Features:
  - countdown to start
  - countdown at the end of working window
  - countdown to land
+ - clear toTest, toStart and toLnad announcements before countdown
